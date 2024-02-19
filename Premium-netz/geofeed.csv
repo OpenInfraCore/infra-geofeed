@@ -1,0 +1,7 @@
+# This feed is encoded in RFC 8805 format.
+# prefix,country_code,region_code,city,postal
+46.252.2.64/27,DE,,,
+46.252.2.128/26,DE,,,
+185.89.38.176/28,DE,,,
+185.89.38.192/27,DE,,,
+185.89.39.160/27,DE,,,
