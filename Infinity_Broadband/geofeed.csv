@@ -1,3 +1,5 @@
 # This feed is encoded in RFC 8805 format.
 184.105.14.0/24,US,US-TX,Dallas,
 38.95.21.0/24,US,US-FL,Tampa,
+2607:49c0:800::/40,US,,,
+2607:49c0:900::/96,US,,,
