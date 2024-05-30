@@ -1,7 +1,7 @@
 # This feed is encoded in RFC 8805 format.
 # prefix,country_code,region_code,city,postal
-185.89.37.128/26,DE,,,
-2.59.28.224/27,DE,,,
-45.129.135.0/26,DE,,,
-2A0A:2782:700::/40,DE,,,
-2A0A:2782:800::/40,DE,,,
+185.89.37.128/26,DE,DE-BE,Berlin,
+2.59.28.224/27,DE,DE-BE,Berlin,
+45.129.135.0/26,DE,DE-BE,Berlin,
+2A0A:2782:700::/40,DE,DE-BE,Berlin,
+2A0A:2782:800::/40,DE,DE-BE,Berlin,
